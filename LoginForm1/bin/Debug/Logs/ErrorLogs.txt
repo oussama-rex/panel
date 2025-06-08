@@ -1,0 +1,70 @@
+6/5/2025 9:15:51 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:19:31 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:19:46 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:19:58 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:23:43 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:24:41 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:24:51 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:25:18 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:25:29 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:25:58 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:26:40 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:28:03 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:28:13 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:30:13 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:31:18 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:31:27 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:32:25 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:50:32 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:56:46 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 9:57:23 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:01:23 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:07:21 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:19:15 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:19:15 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"2eec065a","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"ffbd2df9-471e-4a15-b562-c1340b5948da","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:19:31 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"721e4b9a","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"71424840-18a1-4e74-8a90-f3a927d6afb1","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:19:40 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"ebbdf875","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"10359cff-49fe-4931-ba55-21ecd1e60b52","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:20:37 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"067b9e57","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"3f692e04-3c0a-4691-958c-ca0d10356608","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:21:04 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"fd2572e2","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"f0189d4d-2d2a-4d5f-961d-d4581bfa472e","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:21:15 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:21:17 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"8bf8ecb4","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"6567f763-2883-4acf-80fe-4a27a544997f","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:21:53 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"247dc42a","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"98e791b1-84b8-462a-8dc5-59663b2b2aac","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:24:23 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:35:36 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:40:33 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:41:18 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"17d87915","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"bb2869e4-df22-40af-a969-2d62c70a05d8","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:41:39 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":true,"code":68,"message":"Initialized","sessionid":"2b3d49f1","appinfo":{"numUsers":"N/A - Use fetchStats() function in latest example","numOnlineUsers":"N/A - Use fetchStats() function in latest example","numKeys":"N/A - Use fetchStats() function in latest example","version":"1.0","customerPanelLink":"https://keyauth.cc/panel/Kaoutar batata/Kaoutar Batata's Application/"},"newSession":true,"nonce":"b687d3fb-21a1-4e81-a875-f46f4ded33f0","ownerid":"G0GdHd40Z5"}
+6/5/2025 10:42:33 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 10:43:15 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 11:11:09 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 11:34:54 PM > You must run the function KeyAuthApp.init(); first
+6/5/2025 11:35:03 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/5/2025 11:35:14 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/5/2025 11:37:33 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/5/2025 11:38:57 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/5/2025 11:44:00 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/6/2025 12:18:05 AM > You must run the function KeyAuthApp.init(); first
+6/6/2025 12:32:36 AM > You must run the function KeyAuthApp.init(); first
+6/6/2025 12:36:23 AM > You must run the function KeyAuthApp.init(); first
+6/6/2025 12:44:41 AM > You must run the function KeyAuthApp.init(); first
+6/6/2025 1:00:31 AM > You must run the function KeyAuthApp.init(); first
+6/6/2025 1:00:56 AM > You must run the function KeyAuthApp.init(); first
+6/6/2025 1:48:16 AM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/6/2025 1:48:27 AM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/6/2025 1:48:35 AM > You must run the function KeyAuthApp.init(); first
+6/6/2025 1:48:35 AM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/6/2025 1:48:37 AM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 3:22:38 PM > You must run the function KeyAuthApp.init(); first
+6/8/2025 3:22:40 PM > Connection failure. Please try again, or contact us for help. Exception: An error occurred while sending the request.
+6/8/2025 3:23:00 PM > You must run the function KeyAuthApp.init(); first
+6/8/2025 3:23:02 PM > Connection failure. Please try again, or contact us for help. Exception: An error occurred while sending the request.
+6/8/2025 3:24:56 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 3:25:08 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 3:26:50 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 3:33:04 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 4:57:07 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 4:57:12 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 4:57:28 PM > Connection failure. Please try again, or contact us for help. Exception: An error occurred while sending the request.
+6/8/2025 4:58:54 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 4:59:55 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
+6/8/2025 5:01:11 PM > Signature checksum failed. Request was tampered with or session ended most likely. & echo: & echo Response: {"success":false,"code":0,"message":"invalidver","download":"","ownerid":"G0GdHd40Z5"}
